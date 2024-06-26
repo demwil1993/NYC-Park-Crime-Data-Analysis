@@ -39,3 +39,7 @@ To develop a robust ETL (Extract, Transform, Load) process that consolidates NYC
 By implementing this ETL process, NYC can leverage historical crime data to enhance the safety and security of its parks, ensuring that these public spaces remain welcoming and safe for all visitors.
 
 ![image](https://github.com/demwil1993/NYC-Park-Crime-Data-Analysis/assets/79153503/963ea0ac-c6b0-4016-8fce-1a03ef4101db)
+
+;lh;lijjjj
+![image](https://github.com/demwil1993/NYC-Park-Crime-Data-Analysis/assets/79153503/a77681ba-d042-498b-827c-0509db916c84)
+
