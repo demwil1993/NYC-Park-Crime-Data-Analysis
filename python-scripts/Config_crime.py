@@ -1,6 +1,6 @@
 # This file was adapted from http://www.postgresqltutorial.com/postgresql-python/connect/
 
-# The following config() function reads in the dlc_creds.ini file and returns the connection
+# The following config() function reads in the crime_db_creds.ini file and returns the connection
 # parameters as a dictionary. This function will be imported in to the main python script:
 
 # !/usr/bin/python
