@@ -349,7 +349,7 @@ class Database:
         self.conn.close()
         print('\nETL Process Done, database object deleted.')
         
-# Now you can execute your ETL process
+# Execute ETL process
 if __name__ == "__main__":
     etl_process = CrimeDataETL()
     etl_process.extract()
