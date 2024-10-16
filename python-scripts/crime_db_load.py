@@ -207,6 +207,7 @@ class Database:
         # Execute the create table query
         self.cur.execute(create_table_query)
         self.conn.commit()
+        
     def insert_data_staging(self, survey_df):
         # Use cursor to execute INSERT statement
         for _, row in survey_df.iterrows():
